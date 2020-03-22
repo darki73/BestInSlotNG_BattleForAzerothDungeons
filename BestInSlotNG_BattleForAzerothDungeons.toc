@@ -1,0 +1,8 @@
+## Interface: 80300
+## Title: Best In Slot NG [|cffff975bBattle for Azeroth Dungeons|r]
+## Notes: Battle for Azeroth Dungeons Module for BestInSlotNG
+## Author: Astratheon @ Kazzak - EU
+## Version: v8.3.0
+## Dependencies: BestInSlotNG
+
+BestInSlotNG_BattleForAzerothDungeons.lua
